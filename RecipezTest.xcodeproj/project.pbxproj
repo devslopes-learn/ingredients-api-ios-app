@@ -13,6 +13,7 @@
 		836C9FAA25F9341200CDBC72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836C9FA925F9341200CDBC72 /* Assets.xcassets */; };
 		836C9FAD25F9341200CDBC72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836C9FAC25F9341200CDBC72 /* Preview Assets.xcassets */; };
 		836C9FB025F9341200CDBC72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 836C9FAE25F9341200CDBC72 /* LaunchScreen.storyboard */; };
+		836C9FB925F9349000CDBC72 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836C9FB825F9349000CDBC72 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		836C9FAC25F9341200CDBC72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		836C9FAF25F9341200CDBC72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		836C9FB125F9341200CDBC72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		836C9FB825F9349000CDBC72 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				836C9FA325F9341100CDBC72 /* AppDelegate.swift */,
 				836C9FA525F9341100CDBC72 /* SceneDelegate.swift */,
 				836C9FA725F9341100CDBC72 /* ContentView.swift */,
+				836C9FB825F9349000CDBC72 /* Data.swift */,
 				836C9FA925F9341200CDBC72 /* Assets.xcassets */,
 				836C9FAE25F9341200CDBC72 /* LaunchScreen.storyboard */,
 				836C9FB125F9341200CDBC72 /* Info.plist */,
@@ -148,6 +151,7 @@
 				836C9FA425F9341100CDBC72 /* AppDelegate.swift in Sources */,
 				836C9FA625F9341100CDBC72 /* SceneDelegate.swift in Sources */,
 				836C9FA825F9341100CDBC72 /* ContentView.swift in Sources */,
+				836C9FB925F9349000CDBC72 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
